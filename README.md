@@ -7,7 +7,7 @@ Bem-vindo ao meu repositório de currículo! Aqui você encontrará uma visão g
 Sou estudante de programação web e ciência da computação  . Minha paixão por tecnologia me levou a trabalhar em projetos desafiadores e a colaborar com equipes talentosas. Estou sempre buscando aprender e crescer na minha carreira.
 
 ## Experiência Profissional
- Procuraando oportunidade de estágio;
+ Procurando oportunidade de estágio na área;
 
 ## Educação
 
