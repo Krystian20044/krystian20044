@@ -4,17 +4,17 @@ Bem-vindo ao meu repositório de currículo! Aqui você encontrará uma visão g
 
 ## Sobre Mim
 
-Sou estudante de programação web e ciência da computação com . Minha paixão por tecnologia me levou a trabalhar em projetos desafiadores e a colaborar com equipes talentosas. Estou sempre buscando aprender e crescer na minha carreira.
+Sou estudante de programação web e ciência da computação  . Minha paixão por tecnologia me levou a trabalhar em projetos desafiadores e a colaborar com equipes talentosas. Estou sempre buscando aprender e crescer na minha carreira.
 
 ## Experiência Profissional
-
+ Procuraando oportunidade de estágio;
 
 ## Educação
 
 
-### [Ciência da Computação]
-    **[UNIP]** - [Goiânia, Goiás] 
-    *[Cursando]**
+ ### [Ciência da Computação]
+**[UNIP]** - [Goiânia, Goiás]  
+*[Cursando]*  
 
  ### [Administrador de Banco de Dados]
 **[SENAC]** - [Goiânia, Goiás]  
