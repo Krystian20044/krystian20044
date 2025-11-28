@@ -12,8 +12,8 @@ Sou estudante de programação web e SI  . Minha paixão por tecnologia me levou
 ## Educação
 
 
- ### [Ciência da Computação]
-**[UNIP]** - [Goiânia, Goiás]  
+ ### [Sistemas de Informação]
+**[Unifasam]** - [Goiânia, Goiás]  
 *[Cursando]*  
 
  ### [Administrador de Banco de Dados]
@@ -26,6 +26,6 @@ Sou estudante de programação web e SI  . Minha paixão por tecnologia me levou
 
 ## Habilidades
 
-- **Linguagens de Programação:Python,HTML,Java
+- **Linguagens de Programação:Python,HTML,Java,CSS,Javascript
 - **Tecnologias e Ferramentas:MSQl
 - **Soft Skills: Trabalho em equipe, Comunicação
